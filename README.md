@@ -1,18 +1,6 @@
 # This is a simple Rust program that demonstrates string concatenation using the ownership concept.
 
-To run the program, follow these steps:
 
-1.Make sure you have Rust installed on your system. If not, you can install it from the official Rust website.
-
-2.Open a terminal or command prompt.
-
-3.Clone or download the repository to your local machine.
-
-4.Navigate to the project directory.
-
-5.Build the project by running the command cargo build.
-
-6.Run the program with the command cargo run.
 
 The program consists of two functions:
 
